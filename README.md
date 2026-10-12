@@ -13,12 +13,12 @@
 
 ## 👋 介绍
 
-> 这是因为原开源BewlyBewly 使用了["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
+> 这是因为原开源 BewlyBewly 使用了["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
 >
 > **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全。**
 > 此外，这个项目是开源的，所以会同样开源你也能查看到在干什么!
 
-BlightBlight 是基于BewlyBewly辅助利用AI，以便更好用的B站插件。设计灵感来自于 YouTube、Vision OS 和 iOS，从而实现了更具视觉吸引力和用户友好性的界面。
+BlightBlight 是基于["BewlyBewly"](https://github.com/BewlyBewly/BewlyBewly)辅助利用AI，以便更好用的B站插件。设计灵感来自于 YouTube、Vision OS 和 iOS，从而实现了更具视觉吸引力和用户友好性的界面。
 
 该项目使用 [vitesse-webext](https://github.com/antfu/vitesse-webext) 模板进行开发。如果没有这个模板，可能无法开发出这个项目。
 
