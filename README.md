@@ -16,7 +16,7 @@
 > 因为原开源 BewlyBewly 使用了["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
 >
 > **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全。**
-> 此外，这个项目是开源的，所以会同样开源你也能查看到在干什么!
+> 此外，这个项目是开源的，所以会同样开源你也能查看到在干什么 6(^o^)9
 
 BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅助利用AI，以便更好用的B站插件。设计灵感来自于 YouTube、Vision OS 和 iOS，从而实现了更具视觉吸引力和用户友好性的界面。
 
@@ -24,42 +24,16 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 ## ⬇️ 安装
 
-### 在线安装
+### 1.网盘快速安装
+>因部分可能无法使用github，可以使用网盘进行下载zip
 
-> [!TIP]
-> 即使在 Edge 浏览器中，我们也强烈建议您使用 Chrome 应用商店进行安装。在审核速度上，Chrome > 应用商店的审核速度比 Edge 应用商店快得多。
->
-> 此外，BewlyBewly 的 Chrome Web Store 版本将更快地解决和修复关键性错误。
+>123云盘（推荐）：
+>https://1819303252.share.123pan.cn/123pan/tzR9jv-tcdGH
 
-> [!IMPORTANT]
-> 如果你的电脑无法访问 Chrome Web Store，你可以尝试去 crx 搜搜下载：<https://www.crxsoso.com/webstore/detail/bbbiejemhfihiooipfcjmjmbfdmobobp>
->
-> 但与此项目在 Chrome Web Store 是否一致且未经修改不太能保证，但是经过测试是正常的，使用时请慎重，出现任何后果本项目概不负责
-
-- Chrome: <https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp>
-- Edge: <https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp>
-- Firefox: <https://addons.mozilla.org/zh-CN/firefox/addon/bewlybewly/>
-
-#### 对于 Firefox 用户
-
-> [!WARNING]
-> 使用 Firefox 浏览器时，请记得启用下面图片中显示的所有权限，以正常使用 BewlyBewly
-
-<br/> <img width="655" alt="enable all bewlybewly permissions on firefox" src="https://github.com/hakadao/BewlyBewly/assets/33394391/9566aed8-040a-4435-a2ec-c61117f8e429">
+>后续增加更多网盘
 
 ### 本地安装
 
-[CI](https://github.com/hakadao/BewlyBewly/actions)：使用最新代码自动构建
-
-[Releases](https://github.com/hakadao/BewlyBewly/releases)：稳定版
-
-#### Edge 和 Chrome（推荐）
-
-> 确保您下载了 [extension.zip](https://github.com/hakadao/BewlyBewly/releases)。
-
-在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，只需将下载的 `extension.zip` 文件拖放到浏览器中即可完成安装。
-
-<details>
  <summary> Edge & Chrome 的另一种安装方法 </summary>
 
 #### Edge
