@@ -13,7 +13,7 @@
 
 ## 👋 介绍
 
-> 这是因为原开源 BewlyBewly 使用了["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
+> 因为原开源 BewlyBewly 使用了["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
 >
 > **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全。**
 > 此外，这个项目是开源的，所以会同样开源你也能查看到在干什么!
@@ -80,16 +80,13 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 </details>
 
-## 🤝 贡献与构建项目
-
-查看 [CONTRIBUTING.md](docs/CONTRIBUTING-cmn_CN.md)
-
 ### 贡献者
 
-[![Contributors](https://contrib.rocks/image?repo=hakadao/BewlyBewly)](https://github.com/BlightBlight/BlightBlight/graphs/contributors)
+<p align="center">暂位贡献者</p>
 
 ## ❤️ 鸣谢
 
+-[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)- 一切的开始!
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - 该项目使用的模板
 - [UserScripts/bilibiliHome](https://github.com/indefined/UserScripts/tree/master/bilibiliHome),
 [bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 获取访问密钥的参考来源
