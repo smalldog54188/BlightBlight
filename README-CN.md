@@ -35,7 +35,8 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 #### Edge
 
-> 确保您下载了 [extension.zip](https://github.com/hakadao/BewlyBewly/releases) 并解压缩该文件。
+> 确保您下载了 [BlightBlight
+ x.x.zip](https://github.com/smalldog54188/BlightBlight/releases) 并解压缩该文件。
 
 1. 在地址栏输入 `edge://extensions/` 并按回车
 2. 打开 `开发者模式` 并点击 `加载已解压的拓展程序` <br/> <img width="655" alt="image" src="https://user-images.githubusercontent.com/33394391/232246901-e3544c16-bde2-480d-b770-ca5242793963.png">
@@ -43,7 +44,8 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 #### Chrome
 
-> 确保您下载了 [extension.zip](https://github.com/hakadao/BewlyBewly/releases) 并解压缩该文件。
+> 确保您下载了 [BlightBlight
+ x.x.zip](https://github.com/smalldog54188/BlightBlight/releases)  并解压缩该文件。
 
 1. 在地址栏输入 `chrome://extensions/` 并按回车
 2. 打开 `开发者模式` 并点击 `加载已解压的拓展程序` <br/> <img width="655" alt="Snipaste_2022-03-27_18-17-04" src="https://user-images.githubusercontent.com/33394391/160276882-13da0484-92c1-47dd-add8-7655c5c2bf1c.png">
