@@ -1,6 +1,6 @@
 # BlightBlight
 
-[English](README.md) | 简体中文 | [繁体中文](README-TW.md) | [廣東話](README-jyut.md)
+[English](README.md) | 简体中文 | [繁体中文](README-CN-TW.md) | [廣東話](README-jyut.md)
 
 <p align="center" style="margin-bottom: 0px !important;">
 <img width="300" alt="BewlyBewly icon" src="https://github.com/smalldog54188/BlightBlight/blob/main/assets/bewly-vtuber-style-logo.png?raw=true"><br/>
