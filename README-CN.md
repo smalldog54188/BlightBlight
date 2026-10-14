@@ -59,7 +59,7 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 ## ❤️ 鸣谢
 
--[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)- 一切的开始!
+- [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)- 一切的开始!
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - 该项目使用的模板
 - [UserScripts/bilibiliHome](https://github.com/indefined/UserScripts/tree/master/bilibiliHome),
 [bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 获取访问密钥的参考来源
