@@ -29,6 +29,9 @@ BlightBlight 系基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 >123云盘（举荐）：
 >https://1819303252.share.123pan.cn/123pan/tzR9jv-tcdGH
+>蓝奏云（举荐）：
+>https://wwbmq.lanzouv.com/inRhi4bz9dtc
+>取货码：blig
 >**后续增加多啲网盘**
 
 ### 2.github直接下载
