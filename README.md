@@ -58,5 +58,5 @@ This project uses [vitesse-webext](https://github.com/antfu/vitesse-webext) Deve
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - Partial Function Implementation
 - [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 
-  # ! **Hint**
+  # !  **Hint**
   This content is machine translated and contains incorrect translations. We apologize for any inconvenience caused
