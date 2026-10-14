@@ -55,7 +55,7 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 
 ### 贡献者
 
-<p align="center">暂位贡献者</p>
+[![Contributors](https://contrib.rocks/image?repo=smalldog54188/BlightBlight)](https://github.com/smalldog54188/BlightBlight/graphs/contributors)
 
 ## ❤️ 鸣谢
 
