@@ -31,7 +31,7 @@ BlightBlight 是基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)辅�
 >https://1819303252.share.123pan.cn/123pan/tzR9jv-tcdGH
 >后续增加更多网盘
 
-### 本地安装
+### 2.github直接下载
 
 #### Edge
 
