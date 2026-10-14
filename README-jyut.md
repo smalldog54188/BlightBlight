@@ -6,14 +6,14 @@
 <img width="300" alt="BewlyBewly icon" src="https://github.com/smalldog54188/BlightBlight/blob/main/assets/bewly-vtuber-style-logo.png?raw=true"><br/>
 </p>
 
-<p align="center">只需对您的 Bilibili 主页进行一些小更改即可。</p>
+<p align="center">只使对你嘅Bilibili主页进行啲细更改即可。</p>
 
 <!-- ![min1](https://github.com/hakadao/BewlyBewly/assets/33394391/951f9e2a-d0e1-452c-83a9-dc6d85c4d441)
 ![min2](https://github.com/hakadao/BewlyBewly/assets/33394391/3e75dd20-f60b-4645-b434-23a24c72959c) -->
 
 ## 👋 介绍
 
-> 因为原开源 BewlyBewly 使用了["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
+> 因为原先开源BewlyBewly使用嘞。["tabs" 权限](https://developer.chrome.com/docs/extensions/reference/api/tabs)，该权限也可用于读取每个标签页，从而了解浏览历史，但在这里并未使用。
 >
 > **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全。**
 > 此外，这个项目是开源的，所以会同样开源你也能查看到在干什么 6(^o^)9
