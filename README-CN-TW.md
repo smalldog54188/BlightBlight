@@ -30,7 +30,7 @@ BlightBlight 是基於[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)輔�
 >123雲盤（推薦）：
 >https://1819303252.share.123pan.cn/123pan/tzR9jv-tcdGH
 
->>藍奏雲（推薦）：
+>藍奏雲（推薦）：
 > https://wwbmq.lanzouv.com/inRhi4bz9dtc
 >取貨碼：blig
 >**後續新增更多網盤**
